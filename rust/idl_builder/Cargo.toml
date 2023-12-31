@@ -1,0 +1,9 @@
+[package]
+name = "idl_builder"
+version = "0.1.0"
+edition = "2021"
+description = "Builder for IDL language for rust."
+license-file = "LICENSE"
+
+[dependencies]
+anyhow = "1.0.78"
